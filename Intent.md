@@ -6,5 +6,10 @@ It is also my intention to explore new technologies like Unity DOTS and understa
 
 ## The goal:
 
-The asset, at the end of it's development should feature an (very) easy workflow to create and customize different types of movement (such as: wall jump, mantle, slide and other advanced movement techniques; see here TF2 video[[https://www.youtube.com/watch?v=C_cXYyA4LaU]])
+The asset, at the end of it's development should feature an (very) easy workflow to create and customize different types of movement (such as: wall jump, mantle, slide and other advanced movement techniques; see here [TF2 video](https://www.youtube.com/watch?v=C_cXYyA4LaU))
+
+Look at the design specs [[Design Specifications]]
+
+
+
 
